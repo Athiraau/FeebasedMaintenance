@@ -1,0 +1,12 @@
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\bin\Release\net7.0\DataAccess.deps.json
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\bin\Release\net7.0\DataAccess.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\bin\Release\net7.0\DataAccess.pdb
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.AssemblyInfo.cs
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\refint\DataAccess.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\DataAccess.pdb
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\obj\Release\net7.0\ref\DataAccess.dll

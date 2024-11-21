@@ -1,0 +1,15 @@
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\bin\Debug\net7.0\Business.deps.json
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\bin\Debug\net7.0\Business.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\bin\Debug\net7.0\Business.pdb
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\bin\Debug\net7.0\DataAccess.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\bin\Debug\net7.0\DataAccess.pdb
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.csproj.Up2Date
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\refint\Business.dll
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\Business.pdb
+D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\obj\Debug\net7.0\ref\Business.dll

@@ -1,0 +1,1947 @@
+2024-11-15 09:45:12.8165 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 09:45:13.3280 - Hosting starting -                
+
+2024-11-15 09:45:15.0288 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 09:45:15.0288 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 09:45:15.0288 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 09:45:15.0664 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 09:45:15.0664 - Hosting environment: Development -                
+
+2024-11-15 09:45:15.0764 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 09:45:15.0764 - Hosting started -                
+
+2024-11-15 09:45:15.2427 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 09:45:15.5766 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 09:45:15.6888 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 09:45:15.6888 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 09:45:15.7550 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 09:45:15.7550 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 09:45:15.7650 - Connection ID "18302628900129210502" disconnecting. -                
+
+2024-11-15 09:45:15.7650 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 524.4896ms -                
+
+2024-11-15 09:45:15.7999 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 09:45:15.7999 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.2063ms -                
+
+2024-11-15 09:45:15.7999 - Connection ID "18086456122310394130" disconnecting. -                
+
+2024-11-15 09:45:15.8171 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 09:45:15.8649 - Connection ID "18230571293206380608" disconnecting. -                
+
+2024-11-15 09:45:15.8649 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.1627ms -                
+
+2024-11-15 09:45:15.8994 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 09:45:15.9821 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 81.6913ms -                
+
+2024-11-15 09:45:15.9821 - Connection ID "18302628900129210504" disconnecting. -                
+
+2024-11-15 09:47:40.8291 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 09:47:41.0704 - Hosting starting -                
+
+2024-11-15 09:47:42.2949 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 09:47:42.2949 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 09:47:42.2949 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 09:47:42.3225 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 09:47:42.3248 - Hosting environment: Development -                
+
+2024-11-15 09:47:42.3248 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 09:47:42.3248 - Hosting started -                
+
+2024-11-15 09:47:42.3644 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 09:47:42.5883 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 09:47:42.6645 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 09:47:42.6645 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 09:47:42.7042 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 09:47:42.7042 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 09:47:42.7196 - Connection ID "18230571293206380610" disconnecting. -                
+
+2024-11-15 09:47:42.7196 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 357.2552ms -                
+
+2024-11-15 09:47:42.7602 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 09:47:42.7602 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 09:47:42.7645 - Connection ID "17942340925644603420" disconnecting. -                
+
+2024-11-15 09:47:42.7645 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.9017ms -                
+
+2024-11-15 09:47:42.8155 - Connection ID "18302628930193981704" disconnecting. -                
+
+2024-11-15 09:47:42.8249 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 63.5242ms -                
+
+2024-11-15 09:47:42.8522 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 09:47:42.9301 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.8289ms -                
+
+2024-11-15 09:47:42.9301 - Connection ID "17942340925644603422" disconnecting. -                
+
+2024-11-15 09:58:53.0328 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 09:58:53.0389 - POST requests are not supported -                
+
+2024-11-15 09:58:53.2516 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 09:58:53.2516 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 09:58:53.2569 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 09:58:53.2569 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 09:58:53.2569 - CORS policy execution successful. -                
+
+2024-11-15 09:58:53.2853 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 09:58:53.7613 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 09:58:53.7613 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 09:58:53.7613 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 09:58:53.7613 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 09:58:53.7613 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 09:58:53.7613 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 09:58:53.7613 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 09:58:53.7752 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 09:58:53.8070 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 09:58:53.8070 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 09:58:53.8070 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 09:58:53.8070 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 09:58:54.2856 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 09:58:54.2856 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 09:58:54.2856 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 09:58:54.3188 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:00:18.6059 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 84836.8754ms -                
+
+2024-11-15 10:00:18.6059 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:00:18.8562 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:00:18.8770 - Connection ID "17798225728978813077" disconnecting. -                
+
+2024-11-15 10:00:18.8770 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 85849.9371ms -                
+
+2024-11-15 10:03:32.7440 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:03:33.0166 - Hosting starting -                
+
+2024-11-15 10:03:34.7938 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:03:34.7938 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:03:34.7938 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:03:34.8133 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:03:34.8133 - Hosting environment: Development -                
+
+2024-11-15 10:03:34.8133 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:03:34.8133 - Hosting started -                
+
+2024-11-15 10:03:34.8604 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:03:35.0676 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:03:35.1455 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:03:35.1455 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:03:35.1817 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:03:35.1817 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:03:35.1817 - Connection ID "17798225728978813079" disconnecting. -                
+
+2024-11-15 10:03:35.1945 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 333.8522ms -                
+
+2024-11-15 10:03:35.2595 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:03:35.2595 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:03:35.2595 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 5.1981ms -                
+
+2024-11-15 10:03:35.2736 - Connection ID "18086456135195295884" disconnecting. -                
+
+2024-11-15 10:03:35.2964 - Connection ID "17798225767633518624" disconnecting. -                
+
+2024-11-15 10:03:35.2964 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.1384ms -                
+
+2024-11-15 10:03:35.3300 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:03:35.4158 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 85.8316ms -                
+
+2024-11-15 10:03:35.4158 - Connection ID "18230571293206380612" disconnecting. -                
+
+2024-11-15 10:03:54.9311 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:03:54.9455 - POST requests are not supported -                
+
+2024-11-15 10:03:55.3235 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:03:55.3235 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:03:55.3235 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:03:55.3363 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:03:55.3363 - CORS policy execution successful. -                
+
+2024-11-15 10:03:55.3531 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:03:56.3060 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:03:56.3060 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:03:56.3060 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:03:56.3060 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:03:56.3060 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:03:56.3060 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:03:56.3060 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:03:56.3249 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:03:56.3362 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:03:56.3362 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:03:56.3362 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:03:56.3362 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:03:56.7137 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:03:56.7137 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:03:56.7137 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:03:56.7315 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:05:09.7025 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 73386.1494ms -                
+
+2024-11-15 10:05:09.7025 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:05:09.9131 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:05:09.9309 - Connection ID "17870283357376479354" disconnecting. -                
+
+2024-11-15 10:05:09.9309 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 75000.9419ms -                
+
+2024-11-15 10:05:34.5122 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:05:34.5122 - POST requests are not supported -                
+
+2024-11-15 10:05:34.5363 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:05:34.5404 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:05:34.5404 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:05:34.5404 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:05:34.5404 - CORS policy execution successful. -                
+
+2024-11-15 10:05:34.5552 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:05:34.5552 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:05:34.5552 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:05:34.5552 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:05:34.5552 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:05:34.5552 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:05:34.5552 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:05:34.5552 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:05:34.5552 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:05:34.5552 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:05:34.5552 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:05:34.5552 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:05:34.5713 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:05:34.5713 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:05:34.5713 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:05:34.5713 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:05:34.5713 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:05:39.7615 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 5202.0509ms -                
+
+2024-11-15 10:05:39.7615 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:05:39.7835 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:05:39.7835 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 5272.0929ms -                
+
+2024-11-15 10:07:06.9616 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:07:07.2175 - Hosting starting -                
+
+2024-11-15 10:07:08.7983 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:07:08.8038 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:07:08.8038 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:07:08.8038 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:07:08.8038 - Hosting environment: Development -                
+
+2024-11-15 10:07:08.8038 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:07:08.8215 - Hosting started -                
+
+2024-11-15 10:07:08.8571 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:07:09.0371 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:07:09.1145 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:07:09.1145 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:07:09.1469 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:07:09.1469 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:07:09.1490 - Connection ID "18158513724938256725" disconnecting. -                
+
+2024-11-15 10:07:09.1490 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 293.8637ms -                
+
+2024-11-15 10:07:09.2016 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:07:09.2016 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:07:09.2016 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 6.8905ms -                
+
+2024-11-15 10:07:09.2016 - Connection ID "18302628930193981710" disconnecting. -                
+
+2024-11-15 10:07:09.2389 - Connection ID "18230571310386250219" disconnecting. -                
+
+2024-11-15 10:07:09.2458 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.4781ms -                
+
+2024-11-15 10:07:09.2754 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:07:09.3565 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 81.1258ms -                
+
+2024-11-15 10:07:09.3565 - Connection ID "17798225728978813083" disconnecting. -                
+
+2024-11-15 10:07:29.7185 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:07:29.7437 - POST requests are not supported -                
+
+2024-11-15 10:07:29.8568 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:07:29.8568 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:07:29.8568 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:07:29.8568 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:07:29.8568 - CORS policy execution successful. -                
+
+2024-11-15 10:07:29.8700 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:07:30.3993 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:07:30.3993 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:07:30.3993 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:07:30.3993 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:07:30.3993 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:07:30.3993 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:07:30.3993 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:07:30.3993 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:07:30.3993 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:07:30.3993 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:07:30.3993 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:07:30.3993 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:07:30.5097 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:07:30.5097 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:07:30.5097 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:07:30.5097 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:09:46.0492 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 135642.1041ms -                
+
+2024-11-15 10:09:46.0596 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:09:54.8276 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:10:00.3157 - Connection ID "17798225728978813085" disconnecting. -                
+
+2024-11-15 10:10:00.3157 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 150598.7572ms -                
+
+2024-11-15 10:10:21.4451 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:10:21.7244 - Hosting starting -                
+
+2024-11-15 10:10:23.1176 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:10:23.1176 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:10:23.1176 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:10:23.1176 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:10:23.1397 - Hosting environment: Development -                
+
+2024-11-15 10:10:23.1397 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:10:23.1397 - Hosting started -                
+
+2024-11-15 10:10:23.1829 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:10:23.3708 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:10:23.4416 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:10:23.4416 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:10:23.4698 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:10:23.4698 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:10:23.4776 - Connection ID "18302628930193981714" disconnecting. -                
+
+2024-11-15 10:10:23.4776 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 296.7632ms -                
+
+2024-11-15 10:10:23.5232 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:10:23.5232 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:10:23.5232 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.1935ms -                
+
+2024-11-15 10:10:23.5232 - Connection ID "18302628895834243416" disconnecting. -                
+
+2024-11-15 10:10:23.5540 - Connection ID "17798225728978813087" disconnecting. -                
+
+2024-11-15 10:10:23.5623 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 38.9561ms -                
+
+2024-11-15 10:10:23.5924 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:10:23.6658 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 73.4083ms -                
+
+2024-11-15 10:10:23.6658 - Connection ID "18086456152375165064" disconnecting. -                
+
+2024-11-15 10:10:41.6680 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:10:41.6680 - POST requests are not supported -                
+
+2024-11-15 10:10:41.8856 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:10:41.8986 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:10:41.8986 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:10:41.8986 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:10:41.8986 - CORS policy execution successful. -                
+
+2024-11-15 10:10:41.8986 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:10:42.1938 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:10:42.2104 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:10:42.2104 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:10:42.2104 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:10:42.2104 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:10:42.2104 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:10:42.2104 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:10:42.2104 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:10:42.2104 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:10:42.2104 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:10:42.2104 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:10:42.2104 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:10:42.3183 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:10:42.3183 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:10:42.3183 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:10:42.3224 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:12:37.1604 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 114946.2887ms -                
+
+2024-11-15 10:12:37.1604 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:15:32.0296 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:15:32.2825 - Hosting starting -                
+
+2024-11-15 10:15:33.9440 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:15:33.9440 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:15:33.9440 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:15:33.9580 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:15:33.9580 - Hosting environment: Development -                
+
+2024-11-15 10:15:33.9669 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:15:33.9669 - Hosting started -                
+
+2024-11-15 10:15:34.0052 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:15:34.2040 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:15:34.2832 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:15:34.2832 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:15:34.3146 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:15:34.3146 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:15:34.3146 - Connection ID "18014398541157367851" disconnecting. -                
+
+2024-11-15 10:15:34.3272 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 321.1539ms -                
+
+2024-11-15 10:15:34.3626 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:15:34.3626 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:15:34.3626 - Connection ID "18086456109425492173" disconnecting. -                
+
+2024-11-15 10:15:34.3626 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.9057ms -                
+
+2024-11-15 10:15:34.4179 - Connection ID "18302628925899014540" disconnecting. -                
+
+2024-11-15 10:15:34.4179 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.4591ms -                
+
+2024-11-15 10:15:34.4420 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:15:34.5393 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 97.1770ms -                
+
+2024-11-15 10:15:34.5393 - Connection ID "18086456109425492175" disconnecting. -                
+
+2024-11-15 10:15:51.7618 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:15:51.7692 - POST requests are not supported -                
+
+2024-11-15 10:15:51.9422 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:15:51.9422 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:15:51.9511 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:15:51.9511 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:15:51.9511 - CORS policy execution successful. -                
+
+2024-11-15 10:15:51.9511 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:15:52.2165 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:15:52.2165 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:15:52.2165 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:15:52.2165 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:15:52.2165 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:15:52.2165 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:15:52.2165 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:15:52.2165 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:15:52.2165 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:15:52.2165 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:15:52.2165 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:15:52.2165 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:15:52.3302 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:15:52.3302 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:15:52.3302 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:15:52.3302 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:16:15.9839 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 23756.9ms -                
+
+2024-11-15 10:16:15.9839 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:16:27.4834 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:16:29.9543 - Connection ID "18230571310386250224" disconnecting. -                
+
+2024-11-15 10:16:29.9543 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 38194.9300ms -                
+
+2024-11-15 10:17:49.9072 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:17:50.1639 - Hosting starting -                
+
+2024-11-15 10:17:51.6896 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:17:51.6896 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:17:51.6896 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:17:51.7072 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:17:51.7072 - Hosting environment: Development -                
+
+2024-11-15 10:17:51.7072 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:17:51.7072 - Hosting started -                
+
+2024-11-15 10:17:51.7521 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:17:51.9875 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:17:52.0636 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:17:52.0636 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:17:52.0955 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:17:52.0955 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:17:52.0955 - Connection ID "18302628895834243420" disconnecting. -                
+
+2024-11-15 10:17:52.1102 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 356.7806ms -                
+
+2024-11-15 10:17:52.1434 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:17:52.1434 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:17:52.1434 - Connection ID "18086456122310394136" disconnecting. -                
+
+2024-11-15 10:17:52.1434 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.8380ms -                
+
+2024-11-15 10:17:52.1818 - Connection ID "18302628895834243422" disconnecting. -                
+
+2024-11-15 10:17:52.1902 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 43.7616ms -                
+
+2024-11-15 10:17:52.2220 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:17:52.3187 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 96.6342ms -                
+
+2024-11-15 10:17:52.3187 - Connection ID "18302628895834243424" disconnecting. -                
+
+2024-11-15 10:22:34.9864 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:22:35.2334 - Hosting starting -                
+
+2024-11-15 10:22:36.7719 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:22:36.7719 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:22:36.7719 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:22:36.7918 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:22:36.7954 - Hosting environment: Development -                
+
+2024-11-15 10:22:36.7954 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:22:36.7954 - Hosting started -                
+
+2024-11-15 10:22:36.8346 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:22:37.0396 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:22:37.1161 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:22:37.1161 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:22:37.1481 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:22:37.1481 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:22:37.1561 - Connection ID "17870283344491577381" disconnecting. -                
+
+2024-11-15 10:22:37.1561 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 323.0151ms -                
+
+2024-11-15 10:22:37.1969 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:22:37.1969 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:22:37.1969 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.5616ms -                
+
+2024-11-15 10:22:37.1969 - Connection ID "18158513707758387365" disconnecting. -                
+
+2024-11-15 10:22:37.2345 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 35.1750ms -                
+
+2024-11-15 10:22:37.2345 - Connection ID "18302628930193981716" disconnecting. -                
+
+2024-11-15 10:22:37.2731 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:22:37.3475 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.4445ms -                
+
+2024-11-15 10:22:37.3475 - Connection ID "18086456109425492177" disconnecting. -                
+
+2024-11-15 10:23:17.8630 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:23:17.8959 - POST requests are not supported -                
+
+2024-11-15 10:23:18.1365 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:23:18.1414 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:23:18.1414 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:23:18.1414 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:23:18.1414 - CORS policy execution successful. -                
+
+2024-11-15 10:23:18.1608 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:23:18.7076 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:23:18.7076 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:23:18.7076 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:23:18.7076 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:23:18.7076 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:23:18.7076 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:23:18.7166 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:23:18.7166 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:23:18.7166 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:23:18.7333 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:23:18.7333 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:23:18.7333 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:23:18.9861 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:23:18.9861 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:23:18.9861 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:23:19.0013 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:25:55.7486 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:25:56.1070 - Hosting starting -                
+
+2024-11-15 10:25:58.0619 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:25:58.0619 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:25:58.0619 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:25:58.0948 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:25:58.1156 - Hosting environment: Development -                
+
+2024-11-15 10:25:58.1156 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:25:58.1156 - Hosting started -                
+
+2024-11-15 10:25:58.1819 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:25:58.7232 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:25:59.0086 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:25:59.0086 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:25:59.0866 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:25:59.0866 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:25:59.1098 - Connection ID "17798225728978813090" disconnecting. -                
+
+2024-11-15 10:25:59.1098 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 933.9056ms -                
+
+2024-11-15 10:25:59.1433 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:25:59.1556 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 8.2096ms -                
+
+2024-11-15 10:25:59.1713 - Connection ID "18230571314681217402" disconnecting. -                
+
+2024-11-15 10:25:59.1713 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:25:59.2779 - Connection ID "18302628925899014542" disconnecting. -                
+
+2024-11-15 10:25:59.2793 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 98.8189ms -                
+
+2024-11-15 10:25:59.3463 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:25:59.5532 - Connection ID "18230571314681217404" disconnecting. -                
+
+2024-11-15 10:25:59.5532 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.9151ms -                
+
+2024-11-15 10:26:25.1100 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:26:25.1551 - POST requests are not supported -                
+
+2024-11-15 10:26:25.3849 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:26:25.3899 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:26:25.3899 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:26:25.3899 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:26:25.3899 - CORS policy execution successful. -                
+
+2024-11-15 10:26:25.4101 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:26:25.8718 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:26:25.8764 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:26:25.8764 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:26:25.8764 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:26:25.8764 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:26:25.8764 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:26:25.8764 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:26:25.8764 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:26:25.8937 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:26:25.8937 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:26:25.8937 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:26:25.8937 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:26:26.1599 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:26:26.1599 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:26:26.1599 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:26:26.1831 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:29:04.2284 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 158347.4815ms -                
+
+2024-11-15 10:29:04.2910 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:29:15.0211 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:29:27.7494 - Connection ID "18158513720643289435" disconnecting. -                
+
+2024-11-15 10:29:27.7494 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 182641.3304ms -                
+
+2024-11-15 10:31:16.2388 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:31:16.6680 - Hosting starting -                
+
+2024-11-15 10:32:29.8757 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:32:29.8757 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:32:29.8757 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:32:29.9103 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:32:29.9103 - Hosting environment: Development -                
+
+2024-11-15 10:32:29.9103 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:32:29.9103 - Hosting started -                
+
+2024-11-15 10:32:29.9971 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:32:30.6089 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:32:30.7055 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:32:30.7055 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:32:30.7538 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:32:30.7538 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:32:30.7629 - Connection ID "18086456109425492181" disconnecting. -                
+
+2024-11-15 10:32:30.7629 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 767.5326ms -                
+
+2024-11-15 10:32:30.8142 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:32:30.8142 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:32:30.8142 - Connection ID "18230571314681217408" disconnecting. -                
+
+2024-11-15 10:32:30.8142 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 7.2468ms -                
+
+2024-11-15 10:32:30.8521 - Connection ID "18014398541157367859" disconnecting. -                
+
+2024-11-15 10:32:30.8602 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.2408ms -                
+
+2024-11-15 10:32:30.8897 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:32:30.9796 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 89.8691ms -                
+
+2024-11-15 10:32:30.9796 - Connection ID "18302628930193981720" disconnecting. -                
+
+2024-11-15 10:32:55.0109 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:32:55.0167 - POST requests are not supported -                
+
+2024-11-15 10:32:55.3287 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:32:55.3287 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:32:55.3287 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:32:55.3287 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:32:55.3287 - CORS policy execution successful. -                
+
+2024-11-15 10:32:55.3498 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:32:55.8523 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:32:55.8565 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:32:55.8565 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:32:55.8565 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:32:55.8565 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:32:55.8565 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:32:55.8565 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:32:55.8565 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:32:55.8565 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:32:55.8745 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:32:55.8745 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:32:55.8745 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:32:56.2368 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:32:56.2368 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:32:56.2368 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:32:56.2493 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:36:31.2909 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 215424.5009ms -                
+
+2024-11-15 10:36:31.3568 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:36:49.2286 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 14
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:37:02.7043 - Connection ID "18086456122310394140" disconnecting. -                
+
+2024-11-15 10:37:02.7043 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 247696.1488ms -                
+
+2024-11-15 10:37:07.3814 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:37:07.3814 - POST requests are not supported -                
+
+2024-11-15 10:37:07.3814 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:37:07.3814 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:37:07.3814 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:37:07.3814 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:37:07.3814 - CORS policy execution successful. -                
+
+2024-11-15 10:37:07.3814 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:37:07.3878 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:37:07.3878 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:37:07.3878 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:37:07.3878 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:37:07.3878 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:37:07.3878 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:37:07.3878 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:37:07.3878 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:37:07.3878 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:37:07.3878 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:37:07.3878 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:37:07.3878 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:37:07.4038 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:37:07.4038 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:37:07.4038 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:37:07.4038 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:51:11.7236 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 10:51:12.6537 - Hosting starting -                
+
+2024-11-15 10:51:18.4733 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 10:51:18.4733 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 10:51:18.4733 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 10:51:18.4733 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 10:51:18.4733 - Hosting environment: Development -                
+
+2024-11-15 10:51:18.4733 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 10:51:18.4733 - Hosting started -                
+
+2024-11-15 10:51:18.5314 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 10:51:18.7272 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 10:51:18.8016 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 10:51:18.8016 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 10:51:18.8380 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 10:51:18.8380 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 10:51:18.8523 - Connection ID "18230571314681217412" disconnecting. -                
+
+2024-11-15 10:51:18.8523 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 322.9188ms -                
+
+2024-11-15 10:51:18.8893 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 10:51:18.8893 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 10:51:18.8960 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.7453ms -                
+
+2024-11-15 10:51:18.8960 - Connection ID "18302628913014112549" disconnecting. -                
+
+2024-11-15 10:51:18.9319 - Connection ID "18230571301796315329" disconnecting. -                
+
+2024-11-15 10:51:18.9319 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 42.9075ms -                
+
+2024-11-15 10:51:18.9652 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 10:51:19.0451 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 79.8873ms -                
+
+2024-11-15 10:51:19.0451 - Connection ID "18086456109425492183" disconnecting. -                
+
+2024-11-15 10:51:41.6618 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 10:51:41.6618 - POST requests are not supported -                
+
+2024-11-15 10:51:41.9253 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:51:41.9253 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 10:51:41.9253 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:51:41.9253 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 10:51:41.9253 - CORS policy execution successful. -                
+
+2024-11-15 10:51:41.9514 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:51:42.4447 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 10:51:42.4447 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 10:51:42.4447 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 10:51:42.4447 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 10:51:42.4447 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 10:51:42.4447 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 10:51:42.4447 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:51:42.4574 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 10:51:42.4574 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:51:42.4574 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 10:51:42.4743 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:51:42.4743 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 10:51:42.7156 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:51:42.7156 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:51:42.7156 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 10:51:42.7452 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 10:53:29.3707 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 106916.2571ms -                
+
+2024-11-15 10:53:29.3807 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 10:53:35.1049 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06502: PL/SQL: numeric or value error: character string buffer too small
+ORA-06512: at "MANA0809.DELE_MONEY_TRANSFER", line 304
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 15
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 72
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 10:53:44.6574 - Connection ID "18374686498462105898" disconnecting. -                
+
+2024-11-15 10:53:44.6574 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 401 - application/json 123002.3824ms -                
+
+2024-11-15 11:00:12.6722 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 11:00:13.0203 - Hosting starting -                
+
+2024-11-15 11:02:46.4937 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 11:02:46.4937 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 11:02:46.4937 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 11:02:46.5223 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 11:02:46.5268 - Hosting environment: Development -                
+
+2024-11-15 11:02:46.5402 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 11:02:46.5402 - Hosting started -                
+
+2024-11-15 11:02:46.5672 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 11:02:46.7971 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 11:02:46.8712 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 11:02:46.8712 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 11:02:46.9056 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 11:02:46.9056 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 11:02:46.9056 - Connection ID "17942340921349636251" disconnecting. -                
+
+2024-11-15 11:02:46.9159 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 348.5459ms -                
+
+2024-11-15 11:02:46.9658 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 11:02:46.9658 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 2.4491ms -                
+
+2024-11-15 11:02:46.9813 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 11:02:47.0212 - Connection ID "18302628930193981726" disconnecting. -                
+
+2024-11-15 11:02:47.0288 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 47.5232ms -                
+
+2024-11-15 11:02:47.0635 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 11:02:47.1345 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 71.0672ms -                
+
+2024-11-15 11:02:47.1345 - Connection ID "18158513707758387377" disconnecting. -                
+
+2024-11-15 11:03:18.6139 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 11:03:18.6193 - POST requests are not supported -                
+
+2024-11-15 11:03:19.0023 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 11:03:19.0087 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 11:03:19.0087 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:03:19.0087 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 11:03:19.0087 - CORS policy execution successful. -                
+
+2024-11-15 11:03:19.0352 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:03:19.8447 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 11:03:19.8447 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 11:03:19.8447 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 11:03:19.8447 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 11:03:19.8447 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 11:03:19.8447 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 11:03:19.8529 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 11:03:19.8529 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 11:03:19.8529 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 11:03:19.8686 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 11:03:19.8686 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 11:03:19.8686 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 11:03:20.1249 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:03:20.1249 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:03:20.1249 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 11:03:20.1380 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:05:32.3050 - List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter -                
+
+2024-11-15 11:05:32.3226 - No information found on request to perform content negotiation. -                
+
+2024-11-15 11:05:32.3226 - Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. -                
+
+2024-11-15 11:05:32.3226 - Attempting to select the first formatter in the output formatters list which can write the result. -                
+
+2024-11-15 11:05:32.3226 - Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response. -                
+
+2024-11-15 11:05:32.3226 - Executing OkObjectResult, writing value of type 'System.String'. -                
+
+2024-11-15 11:05:32.3226 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 132479.0263ms -                
+
+2024-11-15 11:05:32.3226 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:05:44.5066 - Connection ID "18302628925899014548" disconnecting. -                
+
+2024-11-15 11:05:44.5066 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 200 - text/plain;+charset=utf-8 145899.6731ms -                
+
+2024-11-15 11:07:05.5849 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 11:07:06.0283 - Hosting starting -                
+
+2024-11-15 11:07:41.7876 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 11:07:41.7876 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 11:07:41.7876 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 11:07:41.8153 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 11:07:41.8153 - Hosting environment: Development -                
+
+2024-11-15 11:07:41.8153 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 11:07:41.8153 - Hosting started -                
+
+2024-11-15 11:07:41.9153 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 11:07:42.4031 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 11:07:42.5120 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 11:07:42.5120 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 11:07:42.5612 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 11:07:42.5612 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 11:07:42.5706 - Connection ID "18302628913014112560" disconnecting. -                
+
+2024-11-15 11:07:42.5706 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 656.7354ms -                
+
+2024-11-15 11:07:42.6299 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 11:07:42.6299 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 5.0389ms -                
+
+2024-11-15 11:07:42.6299 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 11:07:42.6299 - Connection ID "18230571293206380614" disconnecting. -                
+
+2024-11-15 11:07:42.6698 - Connection ID "18302628913014112562" disconnecting. -                
+
+2024-11-15 11:07:42.6698 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 34.6703ms -                
+
+2024-11-15 11:07:42.7911 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 11:07:42.8911 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 99.9903ms -                
+
+2024-11-15 11:07:42.8911 - Connection ID "18230571293206380616" disconnecting. -                
+
+2024-11-15 11:10:55.5879 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 -                
+
+2024-11-15 11:10:55.6087 - POST requests are not supported -                
+
+2024-11-15 11:10:55.9512 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 11:10:55.9553 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 11:10:55.9553 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:10:55.9553 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 11:10:55.9553 - CORS policy execution successful. -                
+
+2024-11-15 11:10:55.9729 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:10:56.8998 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 11:10:56.8998 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 11:10:56.9065 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 11:10:56.9065 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 11:10:56.9065 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 11:10:56.9065 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 11:10:56.9065 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 11:10:56.9065 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 11:10:56.9308 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 11:10:56.9308 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 11:10:56.9399 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 11:10:56.9399 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 11:10:57.5263 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:10:57.5263 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:10:57.5263 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 11:10:57.5443 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 11:12:09.0024 - List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter -                
+
+2024-11-15 11:12:09.0320 - No information found on request to perform content negotiation. -                
+
+2024-11-15 11:12:09.0320 - Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. -                
+
+2024-11-15 11:12:09.0320 - Attempting to select the first formatter in the output formatters list which can write the result. -                
+
+2024-11-15 11:12:09.0320 - Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response. -                
+
+2024-11-15 11:12:09.0320 - Executing OkObjectResult, writing value of type 'System.String'. -                
+
+2024-11-15 11:12:09.0320 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 72131.7803ms -                
+
+2024-11-15 11:12:09.0320 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 11:12:09.0529 - Connection ID "18230571314681217414" disconnecting. -                
+
+2024-11-15 11:12:09.0529 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 118 - 200 - text/plain;+charset=utf-8 73467.8989ms -                
+
+2024-11-15 12:24:29.2335 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 12:24:29.8781 - Hosting starting -                
+
+2024-11-15 12:24:55.5638 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 12:24:55.5638 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 12:24:55.5638 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 12:24:55.6586 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 12:24:55.6586 - Hosting environment: Development -                
+
+2024-11-15 12:24:55.6742 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 12:24:55.6742 - Hosting started -                
+
+2024-11-15 12:24:55.7856 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 12:24:56.2472 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 12:24:56.3803 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 12:24:56.3803 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 12:24:56.4566 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 12:24:56.4566 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 12:24:56.4566 - Connection ID "18374686498462105904" disconnecting. -                
+
+2024-11-15 12:24:56.4670 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 682.0472ms -                
+
+2024-11-15 12:24:56.4670 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 12:24:56.4670 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 6.7825ms -                
+
+2024-11-15 12:24:56.4812 - Connection ID "18302628900129210511" disconnecting. -                
+
+2024-11-15 12:24:56.4812 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 12:24:56.5449 - Connection ID "18230571297501348055" disconnecting. -                
+
+2024-11-15 12:24:56.5449 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 67.1563ms -                
+
+2024-11-15 12:24:56.5748 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 12:24:56.7040 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 129.0989ms -                
+
+2024-11-15 12:30:11.6986 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 106 -                
+
+2024-11-15 12:30:11.6986 - POST requests are not supported -                
+
+2024-11-15 12:30:11.9673 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 12:30:11.9673 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 12:30:11.9673 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:30:11.9749 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 12:30:11.9749 - CORS policy execution successful. -                
+
+2024-11-15 12:30:12.0002 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:30:12.4924 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 12:30:12.4924 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 12:30:12.4924 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 12:30:12.4924 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 12:30:12.4924 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 12:30:12.4924 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 12:30:12.4924 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 12:30:12.4924 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 12:30:12.5119 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 12:30:12.5119 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 12:30:12.5119 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 12:30:12.5119 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 12:30:12.9876 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:30:12.9876 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:30:12.9876 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 12:30:13.0150 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:31:45.2815 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 92782.6669ms -                
+
+2024-11-15 12:31:45.2815 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:31:45.5644 - Something went wrong: Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-01403: no data found
+ORA-06512: at "MANA0809.DELE_APPROVE_MONEY_TRANSFER", line 79
+ORA-06512: at "MANA0809.PROC_MTSS_POST", line 33
+ORA-06512: at line 1
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, Int64 internalInitialJSONFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Dapper.SqlMapper.QueryAsync[T](IDbConnection cnn, Type effectiveType, CommandDefinition command) in /_/Dapper/SqlMapper.Async.cs:line 419
+   at DataAccess.Repository.MaintainRepo.PostMaintenanceReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\DataAccess\Repository\MaintainRepo.cs:line 75
+   at Business.Services.MaintenanceService.PostReport(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\Business\Services\MaintenanceService.cs:line 39
+   at MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance(ReqDto reqDto) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Controllers\MaintenanceController.cs:line 61
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at MaintenanceAPI.Extensions.ExceptionMiddleware.Invoke(HttpContext httpContext) in D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI\Extensions\ExceptionMiddleware.cs:line 21 -                
+
+2024-11-15 12:31:45.5816 - Connection ID "18158513729233223932" disconnecting. -                
+
+2024-11-15 12:31:45.5841 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 106 - 401 - application/json 93892.5102ms -                
+
+2024-11-15 12:33:40.1100 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 115 -                
+
+2024-11-15 12:33:40.1378 - POST requests are not supported -                
+
+2024-11-15 12:33:40.1378 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 12:33:40.1378 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 12:33:40.1378 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:33:40.1378 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 12:33:40.1378 - CORS policy execution successful. -                
+
+2024-11-15 12:33:40.1378 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:33:40.1378 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 12:33:40.1464 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 12:33:40.1464 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 12:33:40.1464 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 12:33:40.1464 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 12:33:40.1464 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 12:33:40.1464 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 12:33:40.1464 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 12:33:40.1464 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 12:33:40.1464 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 12:33:40.1464 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 12:33:40.1464 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 12:33:40.1464 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:33:40.1464 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:33:40.1464 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 12:33:40.1464 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 12:33:59.7565 - List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter -                
+
+2024-11-15 12:33:59.7565 - No information found on request to perform content negotiation. -                
+
+2024-11-15 12:33:59.7565 - Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. -                
+
+2024-11-15 12:33:59.7565 - Attempting to select the first formatter in the output formatters list which can write the result. -                
+
+2024-11-15 12:33:59.7565 - Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response. -                
+
+2024-11-15 12:33:59.7565 - Executing OkObjectResult, writing value of type 'System.String'. -                
+
+2024-11-15 12:33:59.7565 - Executed action MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI) in 19615.952ms -                
+
+2024-11-15 12:33:59.7565 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 12:33:59.7565 - Request finished HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 115 - 200 - text/plain;+charset=utf-8 19653.0645ms -                
+
+2024-11-15 12:33:59.7565 - Connection ID "18302628930193981730" disconnecting. -                
+
+2024-11-15 12:36:26.1780 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 12:36:26.6177 - Hosting starting -                
+
+2024-11-15 17:46:55.3967 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 17:46:56.2582 - Hosting starting -                
+
+2024-11-15 17:47:48.3135 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-15 17:47:48.6842 - Hosting starting -                
+
+2024-11-15 17:47:53.4217 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-15 17:47:53.4217 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-15 17:47:53.4217 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-15 17:47:53.4217 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-15 17:47:53.4217 - Hosting environment: Development -                
+
+2024-11-15 17:47:53.4385 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-15 17:47:53.4385 - Hosting started -                
+
+2024-11-15 17:47:53.5267 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-15 17:47:53.8599 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-15 17:47:53.9642 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-15 17:47:53.9642 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-15 17:47:54.0337 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-15 17:47:54.0337 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-15 17:47:54.0443 - Connection ID "17942340947119440063" disconnecting. -                
+
+2024-11-15 17:47:54.0443 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 518.8287ms -                
+
+2024-11-15 17:47:54.0910 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-15 17:47:54.0910 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-15 17:47:54.1062 - Connection ID "18158513742118125718" disconnecting. -                
+
+2024-11-15 17:47:54.1062 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 5.5707ms -                
+
+2024-11-15 17:47:54.1560 - Connection ID "17942340964299309093" disconnecting. -                
+
+2024-11-15 17:47:54.1560 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 71.6777ms -                
+
+2024-11-15 17:47:54.1981 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-15 17:47:54.2726 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.4633ms -                
+
+2024-11-15 17:47:54.2726 - Connection ID "17870283348786544667" disconnecting. -                
+
+2024-11-15 17:52:13.3788 - Request starting HTTP/2 POST https://localhost:44344/api/Maintenance/PostMaintenance application/json-patch+json 78 -                
+
+2024-11-15 17:52:13.3788 - POST requests are not supported -                
+
+2024-11-15 17:52:13.7218 - 1 candidate(s) found for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 17:52:13.7218 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' with route pattern 'api/Maintenance/PostMaintenance' is valid for the request path '/api/Maintenance/PostMaintenance' -                
+
+2024-11-15 17:52:13.7218 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 17:52:13.7310 - The request has an origin header: 'https://localhost:44344'. -                
+
+2024-11-15 17:52:13.7310 - CORS policy execution successful. -                
+
+2024-11-15 17:52:13.7310 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.PostMaintenance (MaintenanceAPI)' -                
+
+2024-11-15 17:52:14.6425 - Route matched with {action = "PostMaintenance", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] PostMaintenance(DataAccess.Dto.Request.ReqDto) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-15 17:52:14.6580 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-15 17:52:14.6580 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-15 17:52:14.6580 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-15 17:52:14.6580 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-15 17:52:14.6580 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-15 17:52:14.6580 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 17:52:14.6661 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-15 17:52:14.6661 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 17:52:14.6661 - Attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' using the name '' in request data ... -                
+
+2024-11-15 17:52:14.6790 - Rejected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonPatchInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 17:52:14.6790 - Selected input formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonInputFormatter' for content type 'application/json-patch+json'. -                
+
+2024-11-15 17:52:15.0118 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 17:52:15.0118 - Done attempting to bind parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+
+2024-11-15 17:52:15.0118 - Attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto' ... -                
+
+2024-11-15 17:52:15.0118 - Done attempting to validate the bound parameter 'reqDto' of type 'DataAccess.Dto.Request.ReqDto'. -                
+

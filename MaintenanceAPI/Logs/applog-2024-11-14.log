@@ -1,0 +1,418 @@
+2024-11-14 17:04:45.6085 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-14 17:04:46.0493 - Hosting starting -                
+
+2024-11-14 17:04:47.7172 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-14 17:04:47.7172 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-14 17:04:47.7172 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-14 17:04:47.7298 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-14 17:04:47.7298 - Hosting environment: Development -                
+
+2024-11-14 17:04:47.7298 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-14 17:04:47.7298 - Hosting started -                
+
+2024-11-14 17:04:47.8905 - Request starting HTTP/2 GET https://localhost:44344/swagger - - -                
+
+2024-11-14 17:04:48.2489 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-14 17:04:48.4210 - Connection ID "18230571297501348044" disconnecting. -                
+
+2024-11-14 17:04:48.4210 - Request finished HTTP/2 GET https://localhost:44344/swagger - - - 301 - - 531.5221ms -                
+
+2024-11-14 17:04:48.4748 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-14 17:04:48.5352 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-14 17:04:48.5352 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-14 17:04:48.5456 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-14 17:04:48.5456 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-14 17:04:48.5456 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 71.1605ms -                
+
+2024-11-14 17:04:48.5456 - Connection ID "18014398519682531335" disconnecting. -                
+
+2024-11-14 17:04:48.5902 - Request starting HTTP/2 GET https://localhost:44344/swagger/swagger-ui.css - - -                
+
+2024-11-14 17:04:48.6091 - Request starting HTTP/2 GET https://localhost:44344/swagger/swagger-ui-bundle.js - - -                
+
+2024-11-14 17:04:48.6091 - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' -                
+
+2024-11-14 17:04:48.6091 - Connection ID "18014398554042269858" disconnecting. -                
+
+2024-11-14 17:04:48.6214 - Request starting HTTP/2 GET https://localhost:44344/swagger/swagger-ui-standalone-preset.js - - -                
+
+2024-11-14 17:04:48.6214 - Request finished HTTP/2 GET https://localhost:44344/swagger/swagger-ui.css - - - 200 144929 text/css 36.3731ms -                
+
+2024-11-14 17:04:48.6448 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-14 17:04:48.6448 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-14 17:04:48.6448 - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' -                
+
+2024-11-14 17:04:48.6448 - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' -                
+
+2024-11-14 17:04:48.6448 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.3755ms -                
+
+2024-11-14 17:04:48.6598 - Connection ID "18230571340451021124" disconnecting. -                
+
+2024-11-14 17:04:48.6737 - Request finished HTTP/2 GET https://localhost:44344/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 52.3587ms -                
+
+2024-11-14 17:04:48.6737 - Connection ID "18230571310386250204" disconnecting. -                
+
+2024-11-14 17:04:48.6897 - Request finished HTTP/2 GET https://localhost:44344/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 80.6181ms -                
+
+2024-11-14 17:04:48.7589 - Connection ID "18230571314681217393" disconnecting. -                
+
+2024-11-14 17:04:48.7589 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.3225ms -                
+
+2024-11-14 17:04:48.9009 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-14 17:04:48.9394 - Request starting HTTP/2 GET https://localhost:44344/swagger/favicon-32x32.png - - -                
+
+2024-11-14 17:04:48.9394 - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' -                
+
+2024-11-14 17:04:48.9394 - Request finished HTTP/2 GET https://localhost:44344/swagger/favicon-32x32.png - - - 200 628 image/png 1.3310ms -                
+
+2024-11-14 17:04:48.9911 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 90.1315ms -                
+
+2024-11-14 17:11:07.4287 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-14 17:11:07.7026 - Hosting starting -                
+
+2024-11-14 17:11:08.8138 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-14 17:11:08.8138 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-14 17:11:08.8138 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-14 17:11:08.8138 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-14 17:11:08.8298 - Hosting environment: Development -                
+
+2024-11-14 17:11:08.8298 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-14 17:11:08.8298 - Hosting started -                
+
+2024-11-14 17:11:08.8787 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-14 17:11:09.1046 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-14 17:11:09.1810 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-14 17:11:09.1810 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-14 17:11:09.2363 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-14 17:11:09.2363 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-14 17:11:09.2363 - Connection ID "18302628895834243410" disconnecting. -                
+
+2024-11-14 17:11:09.2363 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 368.7282ms -                
+
+2024-11-14 17:11:09.2813 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-14 17:11:09.2813 - Connection ID "18230571314681217395" disconnecting. -                
+
+2024-11-14 17:11:09.2813 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 3.1486ms -                
+
+2024-11-14 17:11:09.2813 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-14 17:11:09.3451 - Connection ID "18230571318976184600" disconnecting. -                
+
+2024-11-14 17:11:09.3451 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.9071ms -                
+
+2024-11-14 17:11:09.4550 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-14 17:11:09.5628 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 107.7318ms -                
+
+2024-11-14 17:11:09.5628 - Connection ID "18230571318976184602" disconnecting. -                
+
+2024-11-14 17:11:37.1573 - Request starting HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - -                
+
+2024-11-14 17:11:37.1975 - The request path  does not match the path filter -                
+
+2024-11-14 17:11:37.5412 - 1 candidate(s) found for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:11:37.5469 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' with route pattern 'api/Maintenance/GetMaintenanceData/{flag}/{pagevalue}/{paravalue}' is valid for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:11:37.5469 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:11:38.3720 - Request finished HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - - 401 - application/json 1214.6850ms -                
+
+2024-11-14 17:11:38.3720 - Connection ID "17870283344491577357" disconnecting. -                
+
+2024-11-14 17:27:04.9008 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-14 17:27:05.2584 - Hosting starting -                
+
+2024-11-14 17:27:07.5163 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-14 17:27:07.5163 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-14 17:27:07.5163 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-14 17:27:07.5469 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-14 17:27:07.5469 - Hosting environment: Development -                
+
+2024-11-14 17:27:07.5767 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-14 17:27:07.5767 - Hosting started -                
+
+2024-11-14 17:27:07.6785 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-14 17:27:08.1161 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-14 17:27:08.3323 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-14 17:27:08.3323 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-14 17:27:08.4058 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-14 17:27:08.4058 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-14 17:27:08.4556 - Connection ID "18230571297501348047" disconnecting. -                
+
+2024-11-14 17:27:08.4556 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 781.7408ms -                
+
+2024-11-14 17:27:08.5243 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-14 17:27:08.5257 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-14 17:27:08.5257 - Connection ID "18230571331861086316" disconnecting. -                
+
+2024-11-14 17:27:08.5420 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 16.8861ms -                
+
+2024-11-14 17:27:08.6539 - Connection ID "17942340947119439984" disconnecting. -                
+
+2024-11-14 17:27:08.6539 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 139.2126ms -                
+
+2024-11-14 17:27:08.7019 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-14 17:27:08.9220 - Connection ID "17870283357376479334" disconnecting. -                
+
+2024-11-14 17:27:08.9220 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 220.1351ms -                
+
+2024-11-14 17:27:24.5345 - Request starting HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - -                
+
+2024-11-14 17:27:24.5418 - The request path  does not match the path filter -                
+
+2024-11-14 17:27:24.8919 - 1 candidate(s) found for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:27:24.8919 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' with route pattern 'api/Maintenance/GetMaintenanceData/{flag}/{pagevalue}/{paravalue}' is valid for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:27:24.8919 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:27:25.5862 - Request finished HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - - 401 - application/json 1051.7224ms -                
+
+2024-11-14 17:27:25.5862 - Connection ID "18086456135195295882" disconnecting. -                
+
+2024-11-14 17:28:19.5096 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-14 17:28:20.0126 - Hosting starting -                
+
+2024-11-14 17:28:22.8500 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-14 17:28:22.8500 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-14 17:28:22.8500 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-14 17:28:22.8810 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-14 17:28:22.8863 - Hosting environment: Development -                
+
+2024-11-14 17:28:22.8863 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-14 17:28:22.8863 - Hosting started -                
+
+2024-11-14 17:28:23.1424 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-14 17:28:23.8680 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-14 17:28:24.1346 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-14 17:28:24.1346 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-14 17:28:24.3105 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-14 17:28:24.3105 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-14 17:28:24.3423 - Connection ID "18302628900129210498" disconnecting. -                
+
+2024-11-14 17:28:24.3423 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 1205.4650ms -                
+
+2024-11-14 17:28:24.3835 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-14 17:28:24.3937 - Connection ID "17870283357376479337" disconnecting. -                
+
+2024-11-14 17:28:24.3937 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 9.9673ms -                
+
+2024-11-14 17:28:24.4160 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-14 17:28:24.5203 - Connection ID "18230571318976184606" disconnecting. -                
+
+2024-11-14 17:28:24.5307 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 114.6405ms -                
+
+2024-11-14 17:28:24.5610 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-14 17:28:24.7444 - Connection ID "18302628895834243412" disconnecting. -                
+
+2024-11-14 17:28:24.7444 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 183.3472ms -                
+
+2024-11-14 17:28:41.8519 - Request starting HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - -                
+
+2024-11-14 17:28:41.8584 - The request path  does not match the path filter -                
+
+2024-11-14 17:28:42.0805 - 1 candidate(s) found for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:28:42.0805 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' with route pattern 'api/Maintenance/GetMaintenanceData/{flag}/{pagevalue}/{paravalue}' is valid for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:28:42.0805 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:28:42.4476 - Request finished HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - - 401 - application/json 595.6647ms -                
+
+2024-11-14 17:28:42.4476 - Connection ID "18230571331861086318" disconnecting. -                
+
+2024-11-14 17:29:38.6990 - Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider -                
+
+2024-11-14 17:29:38.9535 - Hosting starting -                
+
+2024-11-14 17:29:40.6101 - Loaded hosting startup assembly MaintenanceAPI -                
+
+2024-11-14 17:29:40.6101 - Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh -                
+
+2024-11-14 17:29:40.6101 - Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net -                
+
+2024-11-14 17:29:40.6501 - Application started. Press Ctrl+C to shut down. -                
+
+2024-11-14 17:29:40.6700 - Hosting environment: Development -                
+
+2024-11-14 17:29:40.6700 - Content root path: D:\FEEBASEDAPIFOLDER\MaintenanceAPI\MaintenanceAPI -                
+
+2024-11-14 17:29:40.6700 - Hosting started -                
+
+2024-11-14 17:29:40.7484 - Request starting HTTP/2 GET https://localhost:44344/swagger/index.html - - -                
+
+2024-11-14 17:29:41.2399 - Wildcard detected, all requests with hosts will be allowed. -                
+
+2024-11-14 17:29:41.4497 - Response markup is scheduled to include Browser Link script injection. -                
+
+2024-11-14 17:29:41.4497 - Response markup is scheduled to include browser refresh script injection. -                
+
+2024-11-14 17:29:41.5227 - Response markup was updated to include Browser Link script injection. -                
+
+2024-11-14 17:29:41.5227 - Response markup was updated to include browser refresh script injection. -                
+
+2024-11-14 17:29:41.5395 - Connection ID "18086456109425492168" disconnecting. -                
+
+2024-11-14 17:29:41.5429 - Request finished HTTP/2 GET https://localhost:44344/swagger/index.html - - - 200 - text/html;charset=utf-8 797.8404ms -                
+
+2024-11-14 17:29:41.5904 - Request starting HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - -                
+
+2024-11-14 17:29:41.5904 - Request starting HTTP/2 GET https://localhost:44344/_vs/browserLink - - -                
+
+2024-11-14 17:29:41.6121 - Connection ID "17942340917054669003" disconnecting. -                
+
+2024-11-14 17:29:41.6121 - Request finished HTTP/2 GET https://localhost:44344/_framework/aspnetcore-browser-refresh.js - - - 200 13764 application/javascript;+charset=utf-8 11.4382ms -                
+
+2024-11-14 17:29:41.6902 - Connection ID "17798225728978813073" disconnecting. -                
+
+2024-11-14 17:29:41.6902 - Request finished HTTP/2 GET https://localhost:44344/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 97.7116ms -                
+
+2024-11-14 17:29:41.7344 - Request starting HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - -                
+
+2024-11-14 17:29:41.9153 - Connection ID "18230571331861086320" disconnecting. -                
+
+2024-11-14 17:29:41.9153 - Request finished HTTP/2 GET https://localhost:44344/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 180.9155ms -                
+
+2024-11-14 17:29:58.0980 - Request starting HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - -                
+
+2024-11-14 17:29:58.1039 - The request path  does not match the path filter -                
+
+2024-11-14 17:29:58.4514 - 1 candidate(s) found for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:29:58.4514 - Endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' with route pattern 'api/Maintenance/GetMaintenanceData/{flag}/{pagevalue}/{paravalue}' is valid for the request path '/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1' -                
+
+2024-11-14 17:29:58.4514 - Request matched endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:29:58.4686 - Executing endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:29:59.4170 - Route matched with {action = "GetMaintenanceData", controller = "Maintenance"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Object] GetMaintenanceData(System.String, System.String, System.String) on controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI). -                
+
+2024-11-14 17:29:59.4170 - Execution plan of authorization filters (in the following order): None -                
+
+2024-11-14 17:29:59.4170 - Execution plan of resource filters (in the following order): None -                
+
+2024-11-14 17:29:59.4170 - Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000) -                
+
+2024-11-14 17:29:59.4170 - Execution plan of exception filters (in the following order): None -                
+
+2024-11-14 17:29:59.4170 - Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000) -                
+
+2024-11-14 17:29:59.4170 - Executing controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-14 17:29:59.4170 - Executed controller factory for controller MaintenanceAPI.Controllers.MaintenanceController (MaintenanceAPI) -                
+
+2024-11-14 17:29:59.4390 - Attempting to bind parameter 'flag' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4390 - Attempting to bind parameter 'flag' of type 'System.String' using the name 'flag' in request data ... -                
+
+2024-11-14 17:29:59.4390 - Done attempting to bind parameter 'flag' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4390 - Done attempting to bind parameter 'flag' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4390 - Attempting to validate the bound parameter 'flag' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4607 - Done attempting to validate the bound parameter 'flag' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Attempting to bind parameter 'pagevalue' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4633 - Attempting to bind parameter 'pagevalue' of type 'System.String' using the name 'pagevalue' in request data ... -                
+
+2024-11-14 17:29:59.4633 - Done attempting to bind parameter 'pagevalue' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Done attempting to bind parameter 'pagevalue' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Attempting to validate the bound parameter 'pagevalue' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4633 - Done attempting to validate the bound parameter 'pagevalue' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Attempting to bind parameter 'paravalue' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4633 - Attempting to bind parameter 'paravalue' of type 'System.String' using the name 'paravalue' in request data ... -                
+
+2024-11-14 17:29:59.4633 - Done attempting to bind parameter 'paravalue' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Done attempting to bind parameter 'paravalue' of type 'System.String'. -                
+
+2024-11-14 17:29:59.4633 - Attempting to validate the bound parameter 'paravalue' of type 'System.String' ... -                
+
+2024-11-14 17:29:59.4633 - Done attempting to validate the bound parameter 'paravalue' of type 'System.String'. -                
+
+2024-11-14 17:30:03.6720 - List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter -                
+
+2024-11-14 17:30:03.6920 - No information found on request to perform content negotiation. -                
+
+2024-11-14 17:30:03.6920 - Attempting to select an output formatter without using a content type as no explicit content types were specified for the response. -                
+
+2024-11-14 17:30:03.6920 - Attempting to select the first formatter in the output formatters list which can write the result. -                
+
+2024-11-14 17:30:03.6920 - Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter' and content type 'text/plain' to write the response. -                
+
+2024-11-14 17:30:03.6920 - Executing OkObjectResult, writing value of type 'System.String'. -                
+
+2024-11-14 17:30:03.7036 - Executed action MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI) in 4275.3251ms -                
+
+2024-11-14 17:30:03.7036 - Executed endpoint 'MaintenanceAPI.Controllers.MaintenanceController.GetMaintenanceData (MaintenanceAPI)' -                
+
+2024-11-14 17:30:03.7036 - Connection ID "17942340947119439989" disconnecting. -                
+
+2024-11-14 17:30:03.7036 - Request finished HTTP/2 GET https://localhost:44344/api/Maintenance/GetMaintenanceData/MAINOPTIONS/1/1 - - - 200 - text/plain;+charset=utf-8 5609.9575ms -                
+

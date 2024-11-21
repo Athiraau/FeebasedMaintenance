@@ -1,0 +1,507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\extensions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\maintenanceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\maintenanceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\repository\\maintainrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repository\\maintainrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\services\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\services\\maintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\dto\\response\\resdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\response\\resdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\dto\\request\\reqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\request\\reqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\extensions\\jwtmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\extensions\\jwtmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\logs\\applog-2024-11-15.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\logs\\applog-2024-11-15.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\extensions\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\extensions\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\services\\servicewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\services\\servicewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\helpers\\commonvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\helpers\\commonvalidationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\validators\\commonvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\validators\\commonvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\services\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\services\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\services\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\contracts\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\contracts\\imaintenanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\contracts\\iservicewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\contracts\\iservicewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\logs\\applog-2024-11-14.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\logs\\applog-2024-11-14.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\contracts\\ijwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\contracts\\ijwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\contracts\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|d:\\feebasedapifolder\\maintenanceapi\\business\\helpers\\helperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B92D3CF-37CB-4448-84D4-5FF9A212FD03}|Business\\Business.csproj|solutionrelative:business\\helpers\\helperwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\contracts\\imaintenancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\contracts\\imaintenancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|d:\\feebasedapifolder\\maintenanceapi\\maintenanceapi\\maintenanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{952EF49C-7E00-444B-B44E-B94D41B5119D}|MaintenanceAPI\\MaintenanceAPI.csproj|solutionrelative:maintenanceapi\\maintenanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\dto\\dtowrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dto\\dtowrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\entities\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|d:\\feebasedapifolder\\maintenanceapi\\dataaccess\\entities\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC78C2CF-1244-4D36-893D-58060AB00391}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaintenanceAPI",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\MaintenanceAPI.csproj",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\MaintenanceAPI.csproj",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\MaintenanceAPI.csproj",
+              "RelativeToolTip": "MaintenanceAPI\\MaintenanceAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T07:05:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaintainRepo.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Repository\\MaintainRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repository\\MaintainRepo.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Repository\\MaintainRepo.cs",
+              "RelativeToolTip": "DataAccess\\Repository\\MaintainRepo.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAhwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:52:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Extensions\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Extensions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:04:37.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResDto.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\Response\\ResDto.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Dto\\Response\\ResDto.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\Response\\ResDto.cs",
+              "RelativeToolTip": "DataAccess\\Dto\\Response\\ResDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:49:33.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqDto.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\Request\\ReqDto.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Dto\\Request\\ReqDto.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\Request\\ReqDto.cs",
+              "RelativeToolTip": "DataAccess\\Dto\\Request\\ReqDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:49:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAlwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:01:38.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaintenanceService.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\MaintenanceService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\MaintenanceService.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\MaintenanceService.cs",
+              "RelativeToolTip": "Business\\Services\\MaintenanceService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:04:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtMiddlewareExtension.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\JwtMiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Extensions\\JwtMiddlewareExtension.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\JwtMiddlewareExtension.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Extensions\\JwtMiddlewareExtension.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAlwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:05:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Context\\DapperContext.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Context\\DapperContext.cs",
+              "RelativeToolTip": "DataAccess\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:46:04.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "applog-2024-11-15.log",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Logs\\applog-2024-11-15.log",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Logs\\applog-2024-11-15.log",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Logs\\applog-2024-11-15.log",
+              "RelativeToolTip": "MaintenanceAPI\\Logs\\applog-2024-11-15.log",
+              "ViewState": "AQIAAAoEAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-15T05:00:04.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CorsMiddleware.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\CorsMiddleware.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Extensions\\CorsMiddleware.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Extensions\\CorsMiddleware.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Extensions\\CorsMiddleware.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAlwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:03:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Program.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Program.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAlwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:27:33.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceWrapper.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\ServiceWrapper.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\ServiceWrapper.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\ServiceWrapper.cs",
+              "RelativeToolTip": "Business\\Services\\ServiceWrapper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAlwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:37:17.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonValidationHelper.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Helpers\\CommonValidationHelper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\CommonValidationHelper.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Helpers\\CommonValidationHelper.cs",
+              "RelativeToolTip": "Business\\Helpers\\CommonValidationHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAlwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:46:00.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommonValidators.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Validators\\CommonValidators.cs",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Validators\\CommonValidators.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Validators\\CommonValidators.cs",
+              "RelativeToolTip": "MaintenanceAPI\\Validators\\CommonValidators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:07:46.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\LoggerService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\LoggerService.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\LoggerService.cs",
+              "RelativeToolTip": "Business\\Services\\LoggerService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:15:10.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\JwtUtils.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Services\\JwtUtils.cs",
+              "RelativeToolTip": "Business\\Services\\JwtUtils.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:15:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IMaintenanceService.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IMaintenanceService.cs",
+              "RelativeDocumentMoniker": "Business\\Contracts\\IMaintenanceService.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IMaintenanceService.cs",
+              "RelativeToolTip": "Business\\Contracts\\IMaintenanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:17:06.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IServiceWrapper.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IServiceWrapper.cs",
+              "RelativeDocumentMoniker": "Business\\Contracts\\IServiceWrapper.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IServiceWrapper.cs",
+              "RelativeToolTip": "Business\\Contracts\\IServiceWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:55:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "applog-2024-11-14.log",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Logs\\applog-2024-11-14.log",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\Logs\\applog-2024-11-14.log",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\Logs\\applog-2024-11-14.log",
+              "RelativeToolTip": "MaintenanceAPI\\Logs\\applog-2024-11-14.log",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIoAAABdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2024-11-14T11:43:46.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "nlog.config",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\nlog.config",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\nlog.config",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\nlog.config",
+              "RelativeToolTip": "MaintenanceAPI\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-14T11:08:47.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\appsettings.json",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\appsettings.json",
+              "RelativeToolTip": "MaintenanceAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T11:10:18.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IJwtUtils.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IJwtUtils.cs",
+              "RelativeDocumentMoniker": "Business\\Contracts\\IJwtUtils.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\IJwtUtils.cs",
+              "RelativeToolTip": "Business\\Contracts\\IJwtUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:40:57.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Business\\Contracts\\ILoggerService.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Contracts\\ILoggerService.cs",
+              "RelativeToolTip": "Business\\Contracts\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:18:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HelperWrapper.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Helpers\\HelperWrapper.cs",
+              "RelativeDocumentMoniker": "Business\\Helpers\\HelperWrapper.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\Business\\Helpers\\HelperWrapper.cs",
+              "RelativeToolTip": "Business\\Helpers\\HelperWrapper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:46:41.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MaintenanceAPI.csproj",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\MaintenanceAPI.csproj",
+              "RelativeDocumentMoniker": "MaintenanceAPI\\MaintenanceAPI.csproj",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\MaintenanceAPI\\MaintenanceAPI.csproj",
+              "RelativeToolTip": "MaintenanceAPI\\MaintenanceAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T10:01:50.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IMaintenanceRepo.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Contracts\\IMaintenanceRepo.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Contracts\\IMaintenanceRepo.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Contracts\\IMaintenanceRepo.cs",
+              "RelativeToolTip": "DataAccess\\Contracts\\IMaintenanceRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:01:07.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DtoWrapper.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\DtoWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Dto\\DtoWrapper.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Dto\\DtoWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Dto\\DtoWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:54:21.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Entities\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\ErrorResponse.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Entities\\ErrorResponse.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\ErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:52:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Entities\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\ErrorDetails.cs",
+              "ToolTip": "D:\\FEEBASEDAPIFOLDER\\MaintenanceAPI\\DataAccess\\Entities\\ErrorDetails.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\ErrorDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:51:12.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
